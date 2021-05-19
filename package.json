@@ -1,0 +1,28 @@
+{
+  "name": "shared-memory-nodejs-demo-server",
+  "version": "1.0.0",
+  "description": "Simple server to write/read to/from shared memory through two dedicated APIs.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakarenaLabs/Shared-Memory-NodeJS-Demo-Server.git"
+  },
+  "keywords": [
+    "server",
+    "shared_memory"
+  ],
+  "author": "Staff MakarenaLabs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MakarenaLabs/Shared-Memory-NodeJS-Demo-Server/issues"
+  },
+  "homepage": "https://github.com/MakarenaLabs/Shared-Memory-NodeJS-Demo-Server#readme"
+}
